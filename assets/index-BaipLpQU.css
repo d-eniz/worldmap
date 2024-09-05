@@ -1,0 +1,1 @@
+.map-container{position:relative}.country-label{position:absolute;top:80%;left:10%;font-size:24px;font-weight:700;color:#333;z-index:10}svg path{transition:fill 1s ease}svg path.highlight{fill:red;transition:fill 0s ease}
